@@ -1,2 +1,21 @@
 # juegosindies-socketio
-Demo de un juego en Socket.io
+
+CONTENIDO DE LA CARPETA
+
+server01.js:   Servidor basico
+index01.html:  Ejemplo básico
+game01.js:     Ejemplo de conexión desde el juego
+
+server.js:     Servidor más completo
+index.html:    Pagina del juego
+game.js:       Juego con más funcionalidades
+
+Para ejecutar:  
+
+node server.js 
+
+Ingrese a http://localhost:4200
+
+
+
+ 
